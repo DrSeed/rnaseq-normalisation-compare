@@ -1,0 +1,6 @@
+method,median_lfc_unchanged_genes,pct_unchanged_called_abs_lfc_gt_0.5,median_lfc_induced_genes(true=3.32)
+CPM (library size),-0.949,95.2,2.34
+Upper quartile,-0.119,8.6,3.18
+TMM (edgeR),-0.035,6.5,3.26
+Median of ratios (DESeq2),-0.039,6.5,3.25
+TPM,-0.943,95.1,2.31
